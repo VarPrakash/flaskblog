@@ -7,3 +7,4 @@ Flask-Bcrypt
 Flask-Mail
 Pillow
 email-validator
+python-dotenv
