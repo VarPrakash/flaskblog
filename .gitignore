@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.env
+flaskblog/.env
+
+instance/
+
+venv/
+.venv/
+
+.vscode/
